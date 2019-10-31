@@ -34,7 +34,10 @@ p {
 }
 
 .album-art {
-
+	border: 2px solid red;
+	margin: 25px;
+	padding: 20px;
+	width: 100px;
 }
 
 .clear {
@@ -42,7 +45,10 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
-	
+	border: 2px solid red;
+	margin: 25px;
+	padding: 20px;
+	width: 175px;
 }
 
 .record-label {
@@ -54,17 +60,27 @@ p {
 }
 
 #about-photo {
-
+	border: 2px solid red;
+	margin: 10px;
+	padding: 10px;
+	width: 250px;
 }
 
 #copyright {
-
+	color: red;
+	font-size: 15px;
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 2px solid red;
+	margin: 10px;
+	padding: 15px;
 }
 
 #text-intro {
-	
+	border: 2px solid red;
+	margin: 10px;
+	padding: 20px;
+	background-color: darkgray;
+	color: red;
 }
